@@ -1,0 +1,3 @@
+Below are the commands specific to github
+-------------------------------------------
+1. git init - To initialize the new repo
