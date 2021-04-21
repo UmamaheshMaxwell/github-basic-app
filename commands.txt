@@ -5,3 +5,4 @@ Below are the commands specific to github
 3. git add <filename> - will add the specific file to local repository 
 4. git add . - will add all the files to local repository
 5. git commit -am "adding files to repository"
+6. git push origin master 
