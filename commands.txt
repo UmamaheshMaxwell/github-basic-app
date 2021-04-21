@@ -1,3 +1,7 @@
 Below are the commands specific to github
 -------------------------------------------
 1. git init - To initialize the new repo
+2. git status - status of the files which are yet to be committed
+3. git add <filename> - will add the specific file to local repository 
+4. git add . - will add all the files to local repository
+5. git commit -am "adding files to repository"
